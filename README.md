@@ -14,7 +14,7 @@
 
 ## 🎧 Spotify Playing
 
-![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)
+![Spotify](https://open.spotify.com/intl-id/track/27rZYxE4l21wTaovX4WTnI?si=bca22a7b76bc4ac7)
 
 ---
 
