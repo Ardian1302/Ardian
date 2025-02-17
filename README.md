@@ -1,11 +1,11 @@
-# Annyeong yeorobun! - I'm Farhanisme <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+# Hello everyone! - I'm Ardian  <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
 ## 🏋 About Me
 
-- 🌱 I am currently learning more about backend development.
-- 📫 What is the best way to contact me? [Instagram](https://www.instagram.com/frhanoid?igsh=MXZ2YTQwMG42NnBtZA==)
+- 🌱 I am currently learning more about front end development.
+- 📫 What is the best way to contact me? [Instagram](https://www.instagram.com/ardian_syaputra1/)
 - 😄 Pronouns: He/Him
 
 ---
