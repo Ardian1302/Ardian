@@ -1,123 +1,21 @@
-# Hello everyone! - I'm Ardian  <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+# 💫 About Me:
+<br><br>🔭 I’m currently study on UNIVERSITAS MUHAMMADIYAH MAKASSAR<br><br>🌱 I’m currently learning java and python<br><br>👨‍💻 All of my projects are available at <br><br>💬 Ask me about Javascript and java<br><br>📫 How to reach me ardiansyaputra1302@gmail.com<br><br>⚡ Fun fact Video Games addict and love cat<br><br>
 
-<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-## 🏋 About Me
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ardiansyaputra_14032) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ardian_syaputra1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ardian syaputra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ardiansyaputra1302@gmail.com) 
 
-- 🌱 I am currently learning more about front end development.
-- 📫 What is the best way to contact me? [Instagram](https://www.instagram.com/ardian_syaputra1/)
-- 😄 Pronouns: He/Him
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ardian1302&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ardian1302&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ardian1302&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Ardian1302&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-## 🎧 Spotify Playing
-
-![Spotify](https://open.spotify.com/intl-id/track/27rZYxE4l21wTaovX4WTnI?si=bca22a7b76bc4ac7)
-
----
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: 
-Makassar/South Sulawesi
-Central of Jakarta/DKI Jakarta
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
----
-
-  
-<!-- Social Media Handles
-
-<h3 align="left">Connect with me:</h3>  
-<p align="left">
-<a href="https://instagram.com/hash.prog" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hash.prog" height="30" width="40" /></a>  
-<a href="https://github.com/hashfx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="hash.prog" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14162484/hash-fx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="hash.prog" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/hashprog/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hash.prog" height="30" width="40" /></a>
-<a href="https://hashfx.github.io/Portfolio2022" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googleearth.svg" alt="hash.prog" height="30" width="40" /></a>
-   -->
-   
-<!-- Skillset Icons -->
-## 📈 Github Stats
-<!-- Github Statistics Cards -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashfx&theme=react&custom_title=Most-Used-Languages)](https://github.com/hashfx/github-readme-stats) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hashfx&theme=tokyonight&hide_border=true&ring=1EE2BF&fire=E25525)](https://git.io/streak-stats)
-
-
-<div align="center">
-    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=dariodenardi&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=0078D4&icon_color=0078D4" height="200"/>
-
-  <div>
-</div>  -->
-
-### 🧰 Languages and Tools:
-<p align="center">
-  <!-- Bahasa Pemrograman -->
-  <img align="middle" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img align="middle" alt="HTML5" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/html.png" />
-  <img align="middle" alt="CSS3" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/css.png" />
-  <img align="middle" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="middle" alt="PHP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-  <img align="middle" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-  <img align="middle" alt="Kotlin" width="26px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
-  <img align="middle" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-  <img align="middle" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
-  <img align="middle" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-
-  <!-- Framework & Teknologi -->
-  <img align="middle" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-  <img align="middle" alt="Angular" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" />
-  <img align="middle" alt="Django" width="26px" src="https://img.icons8.com/ios/40/000000/django.png" />
-  <img align="middle" alt="Flask" width="26px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" />
-
-  <!-- Tools -->
-  <img align="middle" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-  <img align="middle" alt="Visual Studio Code" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/visual-studio-code.png" />
-  <img align="middle" alt="GitHub" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/github.png" />
-  <img align="middle" alt="Figma" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/figma.png" />
-  <img align="middle" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-  <img align="middle" alt="Heroku" width="26px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
-  <img align="middle" alt="Unity" width="26px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
-  <img align="middle" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
-  <img align="middle" alt="Google Cloud Platform" width="26px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
-  <img align="middle" alt="AWS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  <img align="middle" alt="Kubernetes" width="26px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
-  <img align="middle" alt="Hadoop" width="26px" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" />
-  <img align="middle" alt="OpenCV" width="26px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" />
-  <img align="middle" alt="MATLAB" width="26px" src="https://img.icons8.com/fluency/48/000000/matlab.png" />
-  <img align="middle" alt="Oracle" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" />
-  <img align="middle" alt="Microsoft Azure" width="26px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />
-  <img align="middle" alt="Photoshop" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
-</p>
-<br>
-
-<!-- Profile Trophy -->
-### 🏆 GitHub Profile Trophy:
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=darshanr27&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
-</a>
-
-<!--   Top Languages Using -->
-### 👨‍💻 Top Languages Used:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darshanr27&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darshanr27&theme=nord_dark)
- <br>
- <hr>
- <br>
-
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-    
-<!-- retro visitor counter -->  
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/darshanr27/count.svg" />  
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
